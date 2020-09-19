@@ -1,4 +1,4 @@
 # rsschool-cv
-https://ilya-kupreichyk.github.io/rsschool-cv/cv
+[CV](https://ilya-kupreichyk.github.io/rsschool-cv/cv)
 
-https://ilya-kupreichyk.github.io/rsschool-cv/
+[CV-HTML](https://ilya-kupreichyk.github.io/rsschool-cv/)
