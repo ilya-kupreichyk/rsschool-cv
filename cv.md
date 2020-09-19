@@ -1,28 +1,31 @@
-#ILYA KUPREYCHIK
-###PHONE
+# ILYA KUPREYCHIK
+
+### PHONE
 
 +375 29 507 12 50
 
-###EMAIL
+### EMAIL
 
 kupreichykilya@gmail.com
 
-###ABOUT ME
+### ABOUT ME
 
-My name is Ilya Kupreychik. I am 35 years old. I work as a driver. I am studying at the Minsk Innovation University. It was always interesting to find out how sites are built and finally I came to this. I started to learn HTML, CSS and Javascript, but didn't get to the end.
+My name is **Ilya Kupreychik**. I am 35 years old. I work as a driver. I am studying at the Minsk Innovation University. It was always interesting to find out how sites are built and finally I came to this. I started to learn HTML, CSS and Javascript, but didn't get to the end.
 
-###SKILLS
+### SKILLS
 
 Learning HTML, CSS, JS and GIT
 
-###EXAMPLE OF WORK
+### EXAMPLE OF WORK
 
-https://github.com/ilya-kupreichyk
+[GitHub](https://github.com/ilya-kupreichyk)
 
-###EDUCATION
+[Website](https://ilya-kupreichyk.github.io/)
 
-Minsk Innovation University. Faculty of Communications, Economics and Law. Information technology software. I'm learning on the third course .
+### EDUCATION
 
-###LANGUAGES
+Minsk Innovation University. Faculty of Communications, Economics and Law. Information technology software. I'm learning on the third course.
+
+### LANGUAGES
 
 Russian, English(Elementary)
